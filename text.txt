@@ -1,0 +1,4 @@
+Efficient with the writting of clean and semantic HTML and CSS to create appealing and responsive user interfaces
+A good mastery of java script and its widely used frame works like angular wchich are used to create dynamic and very interractive frame work web applications
+Basic understanding of user interface design principles and user experience to create responsive user friendly interfaces
+That is creating a website that is beign able to run on all devices
